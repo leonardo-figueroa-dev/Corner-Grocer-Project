@@ -14,7 +14,7 @@ I did well at organizing my code using a class structure and keeping it easy to 
 
 What I Could Improve
 
-If I had more time, I’d add better input validation and error handling. Right now, the program assumes the input file is always available and that users type valid item names. Adding checks for missing files or typos would make the program more secure and user-friendly.
+If I had more time, I’d add better input validation and error handling. Right now, the program assumes the input file is always available and that users type valid item names. Adding checks for missing files or typos would make the program more secure and user friendly.
 
 
 Most Challenging Part
@@ -24,11 +24,11 @@ The hardest part for me was figuring out how to properly read and write files in
 
 Transferable Skills
 
-Through this project, I strengthened my C++ programming skills, particularly in object-oriented programming, maps, loops, and file input/output. These skills transfer well to other programming projects or languages since they’re part of core software development.
+Through this project, I strengthened my C++ programming skills, particularly in object oriented programming, maps, loops, and file input/output. These skills transfer well to other programming projects or languages since they’re part of core software development.
 
 Maintainability and Readability
 
-I focused on keeping the code simple, readable, and modular. I used clear variable names, commented each function, and employed a class-based design. This makes it easy for another programmer to update or expand the project in the future.
+I focused on keeping the code simple, readable, and modular. I used clear variable names, commented each function, and employed a class based design. This makes it easy for another programmer to update or expand the project in the future.
 
 Reflection
 
